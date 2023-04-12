@@ -1,2 +1,2 @@
 # ser
-ser word in neu
+ser work in neu
