@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="user@202.199.7.247:22 password (2)" deleteMissingItems="true" createEmptyFolders="true" confirmBeforeDeletion="false" showNewOnSourceInSync="false">
+    <option name="confirmBeforeDeletion" value="false" />
+    <serverData>
+      <paths name="user@202.199.7.247:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/user/health/reposity/SER/for_sync" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="user@202.199.7.247:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/user/health/reposity/SER/Speech Emotion Recognition" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
